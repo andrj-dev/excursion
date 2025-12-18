@@ -1,0 +1,20 @@
+* {
+    background-color: black;
+    opacity: 0.9;
+}
+
+.main-title {
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+}
+
